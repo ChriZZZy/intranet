@@ -20,5 +20,12 @@ Vi Anvender en slags MVC-pattern
 - M(odel) - Entiteter og hjælpe- metoder og klasser.
 - V(iew) - JSP og frontend(css, bootstrap mm)
 - C(ontrol) - Servlets
-- 
+
 Husk! Ingen kommunikation mellem Model og View. Gå altid igennem controlleren
+
+## Opret git repo
+```shell
+git init
+git add.
+git commit .m "first commit"
+ ```
